@@ -55,26 +55,6 @@ I build secure backend systems, responsive UIs, and scalable REST APIs in PHP/La
 </td>
 <td valign="top" width="20%">
 
-**Backend**
-- PHP
-- Laravel
-
-</td>
-<td valign="top" width="20%">
-
-**Database**
-- MySQL
-- MongoDB
-
-</td>
-<td valign="top" width="20%">
-
-**Languages**
-- PHP
-- JavaScript
-
-</td>
-<td valign="top" width="20%">
 
 **Tools**
 - Git & GitHub
