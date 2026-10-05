@@ -1,68 +1,87 @@
-<h1 align="center">Hi there, I'm Mohit </h1>
+<h1 align="center">Hi, I'm Mohit</h1>
+
+<h3 align="center">Frontend Developer | React, TypeScript, Tailwind CSS</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;PHP+%7C+Laravel+%7C+MySQL+%7C+MongoDB;Building+Scalable+Web+Applications;Open+to+Full-Time+%2F+Remote+%2F+Freelance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+React+%26+TypeScript;Building+Fast%2C+Accessible+%26+Responsive+UIs;Turning+Figma+Designs+into+Production-Ready+Code;Open+to+Full-Time+%2F+Remote+%2F+Freelance" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohittttdev&label=Profile%20Views&color=6c63ff&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mxhitsharmaa&label=Profile%20Views&color=6c63ff&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat" alt="Open to Work" />
-  <img src="https://img.shields.io/badge/Based%20in-New%20Delhi%2C%20India-orange?style=flat" alt="Location" />
+  <img src="https://img.shields.io/badge/Based%20in-Delhi%2C%20India-orange?style=flat" alt="Location" />
+  <img src="https://img.shields.io/badge/Timezone-IST%20(UTC%2B5:30)-6C63FF?style=flat" alt="Timezone" />
+  <img src="https://img.shields.io/badge/Response%20Time-Within%2024%20hrs-6C63FF?style=flat" alt="Response Time" />
 </p>
 
 <p align="center">
-I build secure backend systems, responsive UIs, and scalable REST APIs in PHP/Laravel — with real end-to-end projects including a multi-module Business Management System and multiple full-stack web apps.
+I build clean, high-performance and accessible web interfaces with React, TypeScript and Tailwind CSS.<br/>
+My focus: pixel-perfect UI, reusable component architecture, Core Web Vitals and a smooth user experience on every screen size.
 </p>
 
 <p align="center">
- Currently seeking <b>full-time, remote, or freelance</b> Full Stack Development opportunities.
+  <a href="https://mohitttt.site.je" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="YOUR_RESUME_LINK" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:mxhitsharmaa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohit-sharma-130b15418/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:mohitttt009@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://mohitttt.site.je/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://github.com/mohittttdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://docs.google.com/document/d/1tBYVkIQgRnbE1KuFb5dsec62NxT7CvRp/edit" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume">
-</a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🌍_Timezone-IST_(UTC%2B5:30)-6C63FF?style=flat" alt="Timezone" />
-  <img src="https://img.shields.io/badge/💬_Response_Time-Within_24hrs-6C63FF?style=flat" alt="Response Time" />
-</p>
+## About Me
+
+- Frontend Developer who turns Figma designs into responsive, production-ready interfaces
+- Strong in React, TypeScript and Tailwind CSS, with solid fundamentals in semantic HTML, modern CSS and JavaScript (ES6+)
+- Care about performance (Lighthouse 90+), accessibility (WCAG, ARIA) and clean, maintainable code
+- Comfortable with Git workflows, code reviews, REST API integration and component-driven development
+- Currently open to **full-time, remote or freelance** Frontend Developer roles
 
 <br/>
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,jquery,php,laravel,mysql,mongodb,git,github,postman,figma,vscode&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,github,vite,figma,vscode,postman,vercel&theme=dark" alt="Tech Stack Icons" />
 </p>
 
 <table align="center">
 <tr>
-<td valign="top" width="20%">
+<td valign="top" width="33%">
 
 **Frontend**
-- HTML5 / CSS3
+- HTML5
+- CSS3 (Flexbox, Grid, Animations)
 - JavaScript (ES6+)
-- Bootstrap
+- TypeScript
+- React.js
 - Tailwind CSS
-- jQuery
+- Node.js
 
 </td>
-<td valign="top" width="20%">
+<td valign="top" width="33%">
 
+**Libraries and Concepts**
+- Next.js (basics)
+- React Router
+- Redux Toolkit / Zustand
+- React Query
+- REST API Integration
+- Responsive and Mobile-First Design
+- Web Accessibility (WCAG)
+- Performance Optimization
+
+</td>
+<td valign="top" width="33%">
 
 **Tools**
-- Git & GitHub
-- Postman
-- XAMPP
-- Composer
+- Git and GitHub
+- VS Code
+- Vite
+- npm 
 - Figma
 - Chrome DevTools
+- Postman
+- Vercel and Netlify
 
 </td>
 </tr>
@@ -70,72 +89,72 @@ I build secure backend systems, responsive UIs, and scalable REST APIs in PHP/La
 
 <br/>
 
-##  Featured Project
+## Featured Project
 
-> **My strongest project — start here.**
+> **My strongest project. Start here.**
 
-###  Business Management System (BMS)
+### ShopSphere: E-Commerce Storefront
 
-**Problem:** Small businesses often manage inventory, sales, purchases, and supplier records using spreadsheets or manual records, resulting in errors and poor business visibility.
+**Problem:** Many online stores have slow, cluttered storefronts that are hard to use on mobile, which leads to high bounce rates and abandoned carts.
 
-**Solution:** Developed a complete multi-module admin system covering Inventory, Sales, Purchase, Customer, and Supplier management with role-based authentication, all in one centralized platform. Designed normalized MySQL schemas to keep transactional data consistent across modules.
+**Solution:** A fast, fully responsive e-commerce frontend with product listing, search, filters, cart and a smooth checkout flow. Built with reusable, type-safe React components and a clean state management setup, following a mobile-first approach.
 
-####  Key Features
--  Inventory & Stock Management
--  Sales & Purchase Management
--  Customer & Supplier Management
--  Role-Based Authentication
--  Reports Module for Sales & Inventory Summaries
--  Normalized MySQL Schema Design
--  MVC Architecture
+#### Key Features
+- Product search, sorting and category filters
+- Cart and wishlist with persistent state
+- Multi-step checkout with form validation
+- Skeleton loaders, error and empty states
+- Lazy loading and code splitting for fast page loads
+- Accessible UI with keyboard navigation and ARIA labels
+- Dark and light theme
 
-####  Impact
-- Centralized business operations into one dashboard
-- Reduced manual record management
-- Improved scalability with MVC architecture
-- Kept transactional data consistent across modules
+#### Impact
+- Lighthouse scores of 90+ for Performance, Accessibility and Best Practices
+- Reusable component library that reduces development time for new pages
+- Consistent experience across mobile, tablet and desktop
+- Type-safe codebase that catches bugs at compile time
 
-`PHP` `MySQL` `MVC` `Role-Based Authentication`
+`React` `TypeScript` `Tailwind CSS` `Redux Toolkit` `React Query` `Vite`
 
-🔗 **Live Demo:** *Coming Soon*  
-📂 **Code:** https://github.com/mohittttdev/business-management
+**Live Demo:** *Coming Soon*
+**Code:** https://github.com/YOUR_GITHUB_USERNAME/shopsphere
 
 ---
 
-#  More Projects
+# More Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-###  Vitalness — Fitness Hub
+### DevBoard: Analytics Dashboard
 
-Full-stack fitness web application with secure JWT-based authentication, workout tracking, and a MySQL data layer. REST APIs in PHP keep the client and server cleanly separated.
+Admin dashboard with interactive charts, data tables with sorting and pagination, KPI cards and a collapsible sidebar. Includes dark mode and a fully responsive layout.
 
 **Tech Stack**
 
-`PHP` `Laravel` `MySQL` `JWT`
+`React` `TypeScript` `Tailwind CSS` `Recharts`
 
-🔗 **Live Demo:** *Coming Soon*
+**Live Demo:** *Coming Soon*
 
-📂 **Code:** https://github.com/mohittttdev/vitalness
+**Code:** https://github.com/YOUR_GITHUB_USERNAME/devboard
 
 </td>
 
 <td width="50%" valign="top">
 
-###  Spotify Clone
+### CineScope: Movie Explorer
 
-Music streaming clone in PHP that fetches track, artist, and album data from an external API, with dynamic pages to browse and play tracks — UI modeled on the original Spotify layout.
+Movie discovery app powered by the TMDB API, featuring debounced search, infinite scroll, detail pages, watchlist and URL-based routing.
 
 **Tech Stack**
 
-`PHP` `REST API`
+`React` `TypeScript` `React Router` `TMDB API`
 
-🔗 **Live Demo:** *Coming Soon*
+**Live Demo:** *Coming Soon*
 
-📂 **Code:** https://github.com/mohittttdev/Spotify-Clone
+**Code:** https://github.com/mxhitsharmaa/cinescope
 
 </td>
 
@@ -145,35 +164,6 @@ Music streaming clone in PHP that fetches track, artist, and album data from an 
 
 <td width="50%" valign="top">
 
-###  Developer Portfolio
-
-Personal portfolio built with Tailwind CSS, showcasing projects, skills, and experience with smooth animations, a working contact form, and a fully responsive layout — deployed and actively maintained live.
-
-**Tech Stack**
-
-`Tailwind CSS` `HTML` `CSS` `JavaScript`
-
-🔗 **Live Demo:** https://mohitttt.site.je/
-
-📂 **Code:** https://github.com/mohittttdev/mohitportfolio
-
-</td>
-
-<td width="50%" valign="top">
-
-###  Coming Soon
-
-More full-stack projects in the pipeline — check back soon or explore my other repos directly.
-
-**Tech Stack**
-
-`PHP` `Laravel` `MySQL`
-
-🔗 **Live Demo:** *Coming Soon*
-
-📂 **Code:** *Coming Soon*
-
-</td>
 
 </tr>
 
@@ -181,56 +171,60 @@ More full-stack projects in the pipeline — check back soon or explore my other
 
 <br>
 
-##  Experience
+## Experience
 
-**Full Stack Web Developer — Independent Projects** · 2024 – Present
+**Frontend Developer, Independent Projects** | 2024 - Present
 
--  Built a multi-module Business Management System (PHP/MySQL) end-to-end, covering inventory, sales, purchases & supplier management
--  Designed REST APIs, JWT/role-based authentication systems & access control across multiple projects
--  Developed responsive UIs and optimized MySQL/MongoDB queries for faster data retrieval
--  Delivered fully responsive interfaces across 4+ projects, ensuring consistent experience on mobile, tablet & desktop
+- Built and deployed 6+ responsive web applications using React, TypeScript and Tailwind CSS
+- Created reusable component libraries to keep UI consistent and speed up development
+- Improved load times with lazy loading, code splitting and image optimization, reaching Lighthouse scores of 90+
+- Integrated REST APIs with proper loading, error and empty states
+- Followed accessibility best practices: semantic HTML, ARIA attributes and keyboard navigation
+- Used Git with feature branches and clear commit messages for every project
 
-`PHP` `Laravel` `MySQL` `MongoDB` `JavaScript` `Bootstrap` `Tailwind CSS` `Git`
+`React` `TypeScript` `Tailwind CSS` `JavaScript` `Git` `Vite` `Figma`
 
 <br/>
 
-##  GitHub Stats
+## GitHub Stats
 
 <p align="center">
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohittttdev&theme=radical&hide_border=true" alt="Mohit's GitHub Streak" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mxhitsharmaa&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxhitsharmaa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 <br/>
 
-##  Currently Exploring
+## Currently Learning
 
-- Advanced system design for scalable backend architecture
-- Cloud deployment (AWS / Docker) for production-grade apps
-- Contributing to open-source projects
-
-<br/>
-
-##  Why Work With Me
-
--  I build **complete systems**, not just UI — auth, database design, and business logic included
--  Deep focus on **PHP & Laravel**, so I write clean, maintainable code that fits into existing codebases
--  I write code with **maintainability in mind** — MVC structure, clean commits, and documentation
--  Reliable communicator — quick turnaround on updates and feedback
+- Next.js (App Router, SSR and SSG)
+- Advanced React patterns and performance optimization
+- Web accessibility (WCAG 2.2) and Core Web Vitals
+- Testing with Vitest and React Testing Library
 
 <br/>
 
-##  Let's Connect
+## Why Work With Me
+
+- **Design to code:** I turn Figma designs into pixel-perfect, responsive interfaces
+- **Performance and accessibility first:** fast, inclusive apps that work for everyone
+- **Clean architecture:** reusable, typed components that are easy to maintain and scale
+- **Team ready:** comfortable with Git workflows, code reviews and clear communication
+- **Quick learner:** I pick up new tools and frameworks fast and ship consistently
+
+<br/>
+
+## Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohit-sharma-130b15418/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:mohitttt009@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://mohitttt.site.je/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://github.com/mohittttdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:mxhitsharmaa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://mohitttt.site.je" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://github.com/mxhitsharmaa" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 <p align="center">
-<i>"Building scalable web applications, solving real-world problems, and continuously improving through innovation and learning."</i>
+<i>"Designing interfaces that feel effortless, load instantly and work for everyone."</i>
 </p>
 
 <p align="center">
