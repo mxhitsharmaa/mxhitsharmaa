@@ -28,16 +28,6 @@ My focus: pixel-perfect UI, reusable component architecture, Core Web Vitals and
 
 <br/>
 
-## About Me
-
-- Frontend Developer who turns Figma designs into responsive, production-ready interfaces
-- Strong in React, TypeScript and Tailwind CSS, with solid fundamentals in semantic HTML, modern CSS and JavaScript (ES6+)
-- Care about performance (Lighthouse 90+), accessibility (WCAG, ARIA) and clean, maintainable code
-- Comfortable with Git workflows, code reviews, REST API integration and component-driven development
-- Currently open to **full-time, remote or freelance** Frontend Developer roles
-
-<br/>
-
 ## Tech Stack
 
 <p align="center">
