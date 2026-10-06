@@ -31,7 +31,7 @@ My focus: pixel-perfect UI, reusable component architecture, Core Web Vitals and
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,github,vite,figma,vscode,postman,vercel&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,github,vite,figma,wordpress,postman,vercel&theme=dark" alt="Tech Stack Icons" />
 </p>
 
 <table align="center">
@@ -65,7 +65,7 @@ My focus: pixel-perfect UI, reusable component architecture, Core Web Vitals and
 
 **Tools**
 - Git and GitHub
-- VS Code
+- Wordpress
 - Vite
 - npm 
 - Figma
