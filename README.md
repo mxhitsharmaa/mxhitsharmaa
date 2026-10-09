@@ -107,7 +107,7 @@ My focus: pixel-perfect UI, reusable component architecture, Core Web Vitals and
 `React` `TypeScript` `Tailwind CSS` `Redux Toolkit` `React Query` `Vite`
 
 **Live Demo:** *Coming Soon*
-**Code:** https://github.com/YOUR_GITHUB_USERNAME/shopsphere
+**Code:** https://github.com/mxhitsharmaa/ShopSphere: E-Commerce Storefront
 
 ---
 
@@ -128,7 +128,7 @@ Admin dashboard with interactive charts, data tables with sorting and pagination
 
 **Live Demo:** *Coming Soon*
 
-**Code:** https://github.com/YOUR_GITHUB_USERNAME/devboard
+**Code:** https://github.com/mxhitsharma/DevBoard: Analytics Dashboard
 
 </td>
 
@@ -144,7 +144,7 @@ Movie discovery app powered by the TMDB API, featuring debounced search, infinit
 
 **Live Demo:** *Coming Soon*
 
-**Code:** https://github.com/mxhitsharmaa/cinescope
+**Code:** https://github.com/mxhitsharmaa/CineScope: Movie Explorer
 
 </td>
 
