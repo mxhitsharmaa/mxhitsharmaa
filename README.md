@@ -90,24 +90,26 @@ My focus: pixel-perfect UI, reusable component architecture, Core Web Vitals and
 **Solution:** A fast, fully responsive e-commerce frontend with product listing, search, filters, cart and a smooth checkout flow. Built with reusable, type-safe React components and a clean state management setup, following a mobile-first approach.
 
 #### Key Features
-- Product search, sorting and category filters
-- Cart and wishlist with persistent state
-- Multi-step checkout with form validation
-- Skeleton loaders, error and empty states
-- Lazy loading and code splitting for fast page loads
-- Accessible UI with keyboard navigation and ARIA labels
-- Dark and light theme
+
+* Product search, sorting and category filters
+* Cart and wishlist with persistent state
+* Multi-step checkout with form validation
+* Skeleton loaders, error and empty states
+* Lazy loading and code splitting for fast page loads
+* Accessible UI with keyboard navigation and ARIA labels
+* Dark and light theme
 
 #### Impact
-- Lighthouse scores of 90+ for Performance, Accessibility and Best Practices
-- Reusable component library that reduces development time for new pages
-- Consistent experience across mobile, tablet and desktop
-- Type-safe codebase that catches bugs at compile time
+
+* Lighthouse scores of 90+ for Performance, Accessibility and Best Practices
+* Reusable component library that reduces development time for new pages
+* Consistent experience across mobile, tablet and desktop
+* Type-safe codebase that catches bugs at compile time
 
 `React` `TypeScript` `Tailwind CSS` `Redux Toolkit` `React Query` `Vite`
 
 **Live Demo:** *Coming Soon*
-**Code:** https://github.com/mxhitsharmaa/ShopSphere: E-Commerce Storefront
+**Code:** [ShopSphere-E-commerce-Storefront](https://github.com/mxhitsharmaa/ShopSphere-E-Commerce-Storefront)
 
 ---
 
@@ -128,7 +130,7 @@ Admin dashboard with interactive charts, data tables with sorting and pagination
 
 **Live Demo:** *Coming Soon*
 
-**Code:** https://github.com/mxhitsharma/DevBoard: Analytics Dashboard
+**Code:** [DevBoard-Analytics-Dashboard](https://github.com/mxhitsharmaa/DevBoard-Analytics-Dashboard)
 
 </td>
 
@@ -144,7 +146,7 @@ Movie discovery app powered by the TMDB API, featuring debounced search, infinit
 
 **Live Demo:** *Coming Soon*
 
-**Code:** https://github.com/mxhitsharmaa/CineScope: Movie Explorer
+**Code:** [CineScope-Movie-Explorer](https://github.com/mxhitsharmaa/CineScope-Movie-Explorer)
 
 </td>
 
@@ -154,9 +156,45 @@ Movie discovery app powered by the TMDB API, featuring debounced search, infinit
 
 <td width="50%" valign="top">
 
+### Personal Portfolio
+
+A professional, responsive portfolio showcasing projects, technical skills, experience, and contact information.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `Tailwind CSS` `PHP`
+
+**Live Demo:** [mohitttt.site.je](https://mohitttt.site.je)
+
+**Code:** [Personal Portfolio](https://github.com/mxhitsharmaa/portfolio)
+
+</td>
+
+<td width="50%" valign="top">
+
+### BMS: Business Management System
+
+A business management system with an admin panel to manage customers, inventory, products, and sales in one place.
+
+**Key Features**
+
+* Admin panel for business operations
+* Customer management
+* Inventory management
+* Product management
+* Sales management
+
+**Tech Stack**
+
+`PHP` `MySQL` `JavaScript` `HTML` `CSS`
+
+**Live Demo:** *Coming Soon*
+
+**Code:** [Business-Management-System](https://github.com/mxhitsharmaa/bms)
+
+</td>
 
 </tr>
-
 </table>
 
 <br>
