@@ -21,7 +21,10 @@ My focus: pixel-perfect UI, reusable component architecture, Core Web Vitals and
 
 <p align="center">
   <a href="https://mohitttt.site.je" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="Mohit_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"></a>
+
+<a href="https://docs.google.com/document/d/1MLFCVOSINT5JjzD8c7DorNMFyb7zHsxq/edit" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Resume">
+</a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mxhitsharmaa@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
