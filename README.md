@@ -208,7 +208,7 @@ A business management system with an admin panel to manage customers, inventory,
 
 **Frontend Developer, Independent Projects** | 2024 - Present
 
-- Built and deployed 6+ responsive web applications using React, TypeScript and Tailwind CSS
+- Built and deployed 5+ responsive web applications using React, TypeScript and Tailwind CSS
 - Created reusable component libraries to keep UI consistent and speed up development
 - Improved load times with lazy loading, code splitting and image optimization, reaching Lighthouse scores of 90+
 - Integrated REST APIs with proper loading, error and empty states
