@@ -219,15 +219,6 @@ A business management system with an admin panel to manage customers, inventory,
 
 <br/>
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mxhitsharmaa&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxhitsharmaa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<br/>
-
 ## Currently Learning
 
 - Next.js (App Router, SSR and SSG)
@@ -244,6 +235,15 @@ A business management system with an admin panel to manage customers, inventory,
 - **Clean architecture:** reusable, typed components that are easy to maintain and scale
 - **Team ready:** comfortable with Git workflows, code reviews and clear communication
 - **Quick learner:** I pick up new tools and frameworks fast and ship consistently
+
+<br/>
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mxhitsharmaa&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxhitsharmaa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+</p>
 
 <br/>
 
