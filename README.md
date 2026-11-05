@@ -238,15 +238,6 @@ A business management system with an admin panel to manage customers, inventory,
 
 <br/>
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mxhitsharmaa&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxhitsharmaa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<br/>
-
 ## Let's Connect
 
 <p align="center">
