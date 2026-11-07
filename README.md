@@ -177,27 +177,6 @@ A professional, responsive portfolio showcasing projects, technical skills, expe
 
 <td width="50%" valign="top">
 
-### BMS: Business Management System
-
-A business management system with an admin panel to manage customers, inventory, products, and sales in one place.
-
-**Key Features**
-
-* Admin panel for business operations
-* Customer management
-* Inventory management
-* Product management
-* Sales management
-
-**Tech Stack**
-
-`PHP` `MySQL` `JavaScript` `HTML` `CSS`
-
-**Live Demo:** *Coming Soon*
-
-**Code:** [Business-Management-System](https://github.com/mxhitsharmaa/bms)
-
-</td>
 
 </tr>
 </table>
